@@ -3,12 +3,8 @@
 The plan with this plugin was to learn Java better but also learn more about how Plugins/Mods works.
 I used Bukkit instead of Spigot or Paper as Bukkit didnt have as much deprived API stuff.
 
-- The overall goal is to have as much as possible.
-- and not to have any errors.
-\
-\
-\
-\
+The overall goal is to have as much as possible.
+and not to have any errors.
 
 # CheckList, Commands and how they work 
 
