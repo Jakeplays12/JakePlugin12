@@ -7,7 +7,6 @@ I used Bukkit instead of Spigot or Paper as Bukkit didnt have as much deprived A
 \
 \
 \
-
 # CheckList, Commands and how they work 
 
 ## /Heal 
