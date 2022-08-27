@@ -15,7 +15,7 @@ and not to have any errors.
 ###### SmallerCommands
 > Heal's the Player and Feeds them
 
-- [x] /Heal [x]
+- [x] /Heal
 - [ ] Add Permissions to the command.
 - [ ] Run the command with an Arg and effect selected player
 
