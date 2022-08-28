@@ -27,6 +27,27 @@ and not to have any errors.
 - [ ] Add Permissions to the command.
 - [ ] Run the command with an Arg and effect selected player
 
+#### Messages
+
+Error = §8[§4!§8]§f §6Error, Player not found.
+
+- No Arguments
+
+Enabled = §6Fly has been §2enabled §6By §r" + player.getDisplayName()
+Disabled = §6Fly has been §4disabled §6By §r " + player.getDisplayName()
+
+- Argument for another player
+
+Enabled (sender) = §6Fly has been §2enabled §6For §r" + target.getDisplayName()
+Enabled (receiver)  = §6Fly has been §2enabled §6By §r" + player.getDisplayName()
+Disabled (sender)= §6Fly has been §4disabled §6For §r" + target.getDisplayName()
+Disabled (receiver) = §6Fly has been §4disabled §6By §r" + player.getDisplayName()
+
+- Agrument for same player name
+
+Enabled = §6Fly has been §2enabled §6For §r" + target.getDisplayName()
+Disabled = §6Fly has been §4disabled §6For §r" + target.getDisplayName()
+
 ## /Vanish
 > Hides Player from all players but Admins
 
