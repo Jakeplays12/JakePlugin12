@@ -8,7 +8,14 @@ I used Bukkit instead of Spigot or Paper as Bukkit didnt have as much deprived A
 The overall goal is to have as much as possible.
 and not to have any errors.
 ```
+### Prefixes
 
+```
+Error : §8[§2!§8]§f
+
+Join : §8[§2+§8]§f
+Leave : §8[§4-§8] §f
+```
 # CheckList, Commands and how they work 
 
 ## /Heal 
