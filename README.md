@@ -22,7 +22,7 @@ Leave : §8[§4-§8] §f
 - [Heal](./README.md#/Heal)
 - [Feed](./README.md#feed)
 
-![Contents](https://github.com/Jakeplays12/Privstuff/blob/main/Composite%20Shot%201-00%3B00%3B00%3B00.tga)
+![Contents](https://github.com/Jakeplays12/Privstuff/blob/52282a045900233ad261e0cc65e3ff37bb06b248/Composite%20Shot%201-00;00;00;00.png)
 
 ## /Heal 
 ###### SmallerCommands
