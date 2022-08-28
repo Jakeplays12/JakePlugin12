@@ -21,7 +21,9 @@ Leave : §8[§4-§8] §f
 
 - [Heal](./README.md#/Heal)
 - [Feed](./README.md#feed)
-
+- [Vanish](./README.md#Vanish)
+- [Broadcast](./README.md#Broadcast)
+- 
 ![Contents](https://github.com/Jakeplays12/Privstuff/blob/main/jplugin_commands_image.png)
 
 ## /Heal 
