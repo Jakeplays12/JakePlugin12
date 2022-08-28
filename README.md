@@ -50,7 +50,7 @@ and not to have any errors.
 - [x] /fly
 - [ ] Add Permissions to the command.
 - [x] Run the command with an Arg and effect selected player
-- [x] When Arg used tell Command User that chosen player has fly
+- [x] (If used on another player) Sender is told otherplayer has fly, otherplayer is told sender gave them fly
 
 
 ## /gmc, /gms, /gmsp (Shorter Gamemode Commands)
