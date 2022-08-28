@@ -22,7 +22,7 @@ Leave : §8[§4-§8] §f
 - [Heal](./README.md#/Heal)
 - [Feed](./README.md#feed)
 
-![Contents](https://github.com/Jakeplays12/Privstuff/blob/jplugin_commands_image.png)
+![Contents](https://github.com/Jakeplays12/Privstuff/blob/main/jplugin_commands_image.png)
 
 ## /Heal 
 ###### SmallerCommands
