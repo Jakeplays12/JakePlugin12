@@ -52,6 +52,9 @@ and not to have any errors.
 - [x] Run the command with an Arg and effect selected player
 - [x] (If used on another player) Sender is told otherplayer has fly, otherplayer is told sender gave them fly
 
+> BUGS
+
+- Gamemode changes dont get registered but reset fly
 
 ## /gmc, /gms, /gmsp (Shorter Gamemode Commands)
 ###### GamemodeCommands
