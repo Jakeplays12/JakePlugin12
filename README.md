@@ -50,7 +50,7 @@ and not to have any errors.
 - [x] /fly
 - [ ] Add Permissions to the command.
 - [x] Run the command with an Arg and effect selected player
-- [ ] When Arg used tell Command User that chosen player has fly
+- [x] When Arg used tell Command User that chosen player has fly
 
 > BUGS
 
