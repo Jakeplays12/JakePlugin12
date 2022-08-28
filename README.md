@@ -16,6 +16,12 @@ Error : §8[§2!§8]§f
 Join : §8[§2+§8]§f
 Leave : §8[§4-§8] §f
 ```
+
+# Contents
+
+- [Heal](./README.md#/Heal)
+- [Feed](./README.md#feed)
+
 # CheckList, Commands and how they work 
 
 ## /Heal 
