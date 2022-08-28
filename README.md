@@ -1,4 +1,4 @@
-# My first plugin
+![name](https://github.com/Jakeplays12/Privstuff/blob/main/jakeplugin12.png)
 
 ```
 The plan with this plugin was to learn Java better but also learn more about how Plugins/Mods works.
