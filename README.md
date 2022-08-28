@@ -22,7 +22,7 @@ Leave : §8[§4-§8] §f
 - [Heal](./README.md#/Heal)
 - [Feed](./README.md#feed)
 
-# CheckList, Commands and how they work 
+https://github.com/Jakeplays12/Privstuff/blob/main/image_commands.png
 
 ## /Heal 
 ###### SmallerCommands
