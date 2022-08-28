@@ -52,9 +52,6 @@ and not to have any errors.
 - [x] Run the command with an Arg and effect selected player
 - [x] When Arg used tell Command User that chosen player has fly
 
-> BUGS
-
-- When /fly is used with a non-player name, Server gives "An internal error occurred while attempting to perform this command" and a null error in console.
 
 ## /gmc, /gms, /gmsp (Shorter Gamemode Commands)
 ###### GamemodeCommands
