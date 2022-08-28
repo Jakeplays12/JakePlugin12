@@ -1,0 +1,45 @@
+name: Jakeplugin
+version: '${project.version}'
+main: me.jakeplaysplugin.jakeplugin.Jakeplugin
+api-version: 1.19
+
+commands:
+  gui:
+    description: Opens the plugin menu.
+    usage: /<command>
+  gmc:
+      description: Puts The Player In Gamemode Creative.
+      usage: /<command>
+  gms:
+        description: Puts The Player In Gamemode Survival.
+        usage: /<command>
+  gmsp:
+          description: Puts The Player In Gamemode Spectator.
+          usage: /<command>
+  fly:
+    description: Toggles Flight.
+    usage: /<command>
+  feed:
+    description: Feeds The Player.
+    usage: /<command>
+  heal:
+    description: Heal and Feeds The Player.
+    usage: /<command>
+  checklist:
+    description: Heal and Feeds The Player.
+    usage: /<command>
+  vanish:
+    description: Vanishes the player.
+    usage: /<command>
+  colors:
+    description: Shows Color & Formatting Codes.
+    usage: /<command>
+    aliases: format
+  broadcast:
+    description: just a test command
+    usage: /<command>
+    aliases: bc
+
+
+
+
