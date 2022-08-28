@@ -103,3 +103,7 @@ WIP
 ## God Mode
 
 WIP
+
+
+## Idea's / Notes
+
